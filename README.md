@@ -1,1 +1,1 @@
-# Python-Projects
+# Expense manager for everyday use
